@@ -8,3 +8,4 @@ A 123
 Now I'm on a branch.
 B 456
 
+Now I'm making a change in Branch Number 2.
